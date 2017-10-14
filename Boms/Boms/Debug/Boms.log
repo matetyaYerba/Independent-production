@@ -1,0 +1,11 @@
+﻿2016/04/07 8:31:20 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\mi141339\Desktop\Projects\Boms\Boms\Boms.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\mi141339\desktop\projects\boms\boms\main.cpp(2): fatal error C1083: include ファイルを開けません。'Siv3D.hpp':No such file or directory
+     1>プロジェクト "C:\Users\mi141339\Desktop\Projects\Boms\Boms\Boms.vcxproj" (Build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:00.20
